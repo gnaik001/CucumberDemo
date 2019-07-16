@@ -1,0 +1,80 @@
+2019-07-12 16:46:41,598 - com.stepdefinations.Hookable -INFO - Scenario 1 : Verify login functionality by passing valid credentials
+2019-07-12 16:46:51,869 - com.operations.Operations -INFO - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-12 16:46:59,442 - com.operations.Operations -INFO - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-12 16:47:00,989 - com.operations.Operations -INFO - Login page verified..!!
+2019-07-12 16:47:03,673 - com.operations.Operations -INFO - UserName Entered : admin
+2019-07-12 16:47:06,433 - com.operations.Operations -INFO - Password Entered : admin@123
+2019-07-12 16:47:11,844 - com.operations.Operations -INFO - Clicked on submit Button..!!
+2019-07-12 16:47:13,190 - com.operations.Operations -INFO - Home Page Verified..!!
+2019-07-12 16:47:16,448 - com.operations.Operations -INFO - Browser Closed..!!
+2019-07-12 16:47:17,251 - com.stepdefinations.Hookable -INFO - ========================== End Of Scenario ==============================
+2019-07-12 16:47:17,636 - com.stepdefinations.Hookable -INFO - Scenario 2 : Verify login functionality by passing invalid credentials
+2019-07-12 16:47:24,689 - com.operations.Operations -INFO - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-12 16:47:29,568 - com.operations.Operations -INFO - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-12 16:47:30,907 - com.operations.Operations -INFO - Login page verified..!!
+2019-07-12 16:47:33,406 - com.operations.Operations -INFO - UserName Entered : Admin
+2019-07-12 16:47:35,976 - com.operations.Operations -INFO - Password Entered : Admin@123
+2019-07-12 16:47:39,252 - com.operations.Operations -INFO - Clicked on submit Button..!!
+2019-07-12 16:47:40,770 - com.operations.Operations -INFO - Error message displayed and verified..!!
+2019-07-12 16:47:44,277 - com.operations.Operations -INFO - Browser Closed..!!
+2019-07-12 16:47:44,423 - com.stepdefinations.Hookable -INFO - ========================== End Of Scenario ==============================
+2019-07-12 16:47:44,778 - com.stepdefinations.Hookable -INFO - Scenario 3 : Verify login functionality by passing invalid credentials
+2019-07-12 16:47:51,985 - com.operations.Operations -INFO - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-12 16:47:57,453 - com.operations.Operations -INFO - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-12 16:47:58,832 - com.operations.Operations -INFO - Login page verified..!!
+2019-07-12 16:48:01,237 - com.operations.Operations -INFO - UserName Entered : admin
+2019-07-12 16:48:04,057 - com.operations.Operations -INFO - Password Entered : Admin@123
+2019-07-12 16:48:06,775 - com.operations.Operations -INFO - Clicked on submit Button..!!
+2019-07-12 16:48:08,186 - com.operations.Operations -INFO - Error message displayed and verified..!!
+2019-07-12 16:48:11,579 - com.operations.Operations -INFO - Browser Closed..!!
+2019-07-12 16:48:11,691 - com.stepdefinations.Hookable -INFO - ========================== End Of Scenario ==============================
+2019-07-12 16:48:11,846 - com.stepdefinations.Hookable -INFO - Scenario 4 : Verify login functionality by passing invalid credentials
+2019-07-12 16:48:19,055 - com.operations.Operations -INFO - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-12 16:48:25,919 - com.operations.Operations -INFO - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-12 16:48:27,288 - com.operations.Operations -INFO - Login page verified..!!
+2019-07-12 16:48:29,746 - com.operations.Operations -INFO - UserName Entered : Admin
+2019-07-12 16:48:32,442 - com.operations.Operations -INFO - Password Entered : admin@123
+2019-07-12 16:48:35,278 - com.operations.Operations -INFO - Clicked on submit Button..!!
+2019-07-12 16:48:36,710 - com.operations.Operations -INFO - Error message displayed and verified..!!
+2019-07-12 16:48:40,196 - com.operations.Operations -INFO - Browser Closed..!!
+2019-07-12 16:48:40,308 - com.stepdefinations.Hookable -INFO - ========================== End Of Scenario ==============================
+2019-07-12 16:52:21,267 - com.stepdefinations.Hookable -INFO - Scenario 1 : Verify login functionality by passing valid credentials
+2019-07-12 16:52:29,273 - com.operations.Operations -INFO - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-12 16:52:37,282 - com.operations.Operations -INFO - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-12 16:52:38,667 - com.operations.Operations -INFO - Login page verified..!!
+2019-07-12 16:52:41,195 - com.operations.Operations -INFO - UserName Entered : admin
+2019-07-12 16:52:43,808 - com.operations.Operations -INFO - Password Entered : admin@123
+2019-07-12 16:52:47,082 - com.operations.Operations -INFO - Clicked on submit Button..!!
+2019-07-12 16:53:08,798 - com.operations.Operations -ERROR - Unable to locate element..!!
+2019-07-12 16:53:11,988 - com.operations.Operations -INFO - Browser Closed..!!
+2019-07-12 16:53:12,570 - com.stepdefinations.Hookable -INFO - ========================== End Of Scenario ==============================
+2019-07-12 16:53:12,729 - com.stepdefinations.Hookable -INFO - Scenario 2 : Verify login functionality by passing invalid credentials
+2019-07-12 16:53:17,284 - com.operations.Operations -INFO - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-12 16:53:24,725 - com.operations.Operations -INFO - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-12 16:53:26,195 - com.operations.Operations -INFO - Login page verified..!!
+2019-07-12 16:53:28,809 - com.operations.Operations -INFO - UserName Entered : Admin
+2019-07-12 16:53:31,485 - com.operations.Operations -INFO - Password Entered : Admin@123
+2019-07-12 16:53:36,050 - com.operations.Operations -INFO - Clicked on submit Button..!!
+2019-07-12 16:53:37,568 - com.operations.Operations -ERROR - Error message Not displayed..!!
+2019-07-12 16:53:40,730 - com.operations.Operations -INFO - Browser Closed..!!
+2019-07-12 16:53:40,847 - com.stepdefinations.Hookable -INFO - ========================== End Of Scenario ==============================
+2019-07-12 16:53:41,001 - com.stepdefinations.Hookable -INFO - Scenario 3 : Verify login functionality by passing invalid credentials
+2019-07-12 16:53:45,858 - com.operations.Operations -INFO - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-12 16:53:51,598 - com.operations.Operations -INFO - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-12 16:53:52,987 - com.operations.Operations -INFO - Login page verified..!!
+2019-07-12 16:53:55,475 - com.operations.Operations -INFO - UserName Entered : admin
+2019-07-12 16:53:57,913 - com.operations.Operations -INFO - Password Entered : Admin@123
+2019-07-12 16:54:00,779 - com.operations.Operations -INFO - Clicked on submit Button..!!
+2019-07-12 16:54:02,270 - com.operations.Operations -ERROR - Error message Not displayed..!!
+2019-07-12 16:54:05,388 - com.operations.Operations -INFO - Browser Closed..!!
+2019-07-12 16:54:05,508 - com.stepdefinations.Hookable -INFO - ========================== End Of Scenario ==============================
+2019-07-12 16:54:05,654 - com.stepdefinations.Hookable -INFO - Scenario 4 : Verify login functionality by passing invalid credentials
+2019-07-12 16:54:10,037 - com.operations.Operations -INFO - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-12 16:54:24,402 - com.operations.Operations -INFO - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-12 16:54:25,860 - com.operations.Operations -INFO - Login page verified..!!
+2019-07-12 16:54:28,481 - com.operations.Operations -INFO - UserName Entered : Admin
+2019-07-12 16:54:31,174 - com.operations.Operations -INFO - Password Entered : admin@123
+2019-07-12 16:54:33,948 - com.operations.Operations -INFO - Clicked on submit Button..!!
+2019-07-12 16:54:35,417 - com.operations.Operations -ERROR - Error message Not displayed..!!
+2019-07-12 16:54:38,622 - com.operations.Operations -INFO - Browser Closed..!!
+2019-07-12 16:54:38,712 - com.stepdefinations.Hookable -INFO - ========================== End Of Scenario ==============================
